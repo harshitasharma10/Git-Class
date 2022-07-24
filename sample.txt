@@ -1,2 +1,0 @@
-This is a sample file for demo. 
-this is a second line of code added on the central repo.
