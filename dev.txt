@@ -1,1 +1,3 @@
+This line is newly created.
+I am happy.
 This is a sample dev file.
