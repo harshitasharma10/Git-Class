@@ -1,1 +1,2 @@
+New line created in dev file
 This is a sample dev file.
